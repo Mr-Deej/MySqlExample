@@ -1,0 +1,7 @@
+# MySQL database credentials
+database:
+  host: 111.111.11.111
+  port: 3306
+  database: database_name
+  username: database_user
+  password: password

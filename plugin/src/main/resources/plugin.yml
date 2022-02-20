@@ -1,0 +1,4 @@
+name: MySQL
+version: '${project.version}'
+main: me.mrdeej.mysql.MySQL
+api-version: 1.18
